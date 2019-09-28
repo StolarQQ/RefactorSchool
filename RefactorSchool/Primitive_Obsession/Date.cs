@@ -10,7 +10,5 @@
             Day = day;
             Month = month;
         }
-
-      
     }
 }

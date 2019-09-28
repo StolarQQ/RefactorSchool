@@ -52,10 +52,6 @@ namespace RefactorSchool
             #endregion
 
             // Design patterns - mediator, command, strategy, factory, builder
-
-
-
-
         }
     }
 }
